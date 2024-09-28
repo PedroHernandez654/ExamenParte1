@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\services\\articuloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903FF84-9B9D-4C0A-816F-912D40BC8007}|ExamenParte1.Models\\ExamenParte1.Models.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1.models\\dto\\getarticulosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903FF84-9B9D-4C0A-816F-912D40BC8007}|ExamenParte1.Models\\ExamenParte1.Models.csproj|solutionrelative:examenparte1.models\\dto\\getarticulosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\registro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\registro.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903FF84-9B9D-4C0A-816F-912D40BC8007}|ExamenParte1.Models\\ExamenParte1.Models.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1.models\\dto\\agregararticulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903FF84-9B9D-4C0A-816F-912D40BC8007}|ExamenParte1.Models\\ExamenParte1.Models.csproj|solutionrelative:examenparte1.models\\dto\\agregararticulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\editararticulo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\editararticulo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\editararticulo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\editararticulo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\database\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\registro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\registro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFE686A-1ACD-4457-9689-43F7ADD13619}|ExamenParte1\\ExamenParte1.csproj|solutionrelative:examenparte1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903FF84-9B9D-4C0A-816F-912D40BC8007}|ExamenParte1.Models\\ExamenParte1.Models.csproj|c:\\users\\pedrohern\u00E1ndez\\source\\repos\\examenparte1\\examenparte1.models\\entity\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903FF84-9B9D-4C0A-816F-912D40BC8007}|ExamenParte1.Models\\ExamenParte1.Models.csproj|solutionrelative:examenparte1.models\\entity\\articulos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetArticulosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1.Models\\DTO\\GetArticulosDTO.cs",
+              "RelativeDocumentMoniker": "ExamenParte1.Models\\DTO\\GetArticulosDTO.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1.Models\\DTO\\GetArticulosDTO.cs",
+              "RelativeToolTip": "ExamenParte1.Models\\DTO\\GetArticulosDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:51:31.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditarArticulo.xaml",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\EditarArticulo.xaml",
+              "RelativeDocumentMoniker": "ExamenParte1\\EditarArticulo.xaml",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\EditarArticulo.xaml",
+              "RelativeToolTip": "ExamenParte1\\EditarArticulo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T22:46:53.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditarArticulo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\EditarArticulo.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenParte1\\EditarArticulo.xaml.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\EditarArticulo.xaml.cs",
+              "RelativeToolTip": "ExamenParte1\\EditarArticulo.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T22:18:02.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Registro.xaml",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\Registro.xaml",
+              "RelativeDocumentMoniker": "ExamenParte1\\Registro.xaml",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\Registro.xaml",
+              "RelativeToolTip": "ExamenParte1\\Registro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T16:23:55.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloService.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\Services\\ArticuloService.cs",
+              "RelativeDocumentMoniker": "ExamenParte1\\Services\\ArticuloService.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\Services\\ArticuloService.cs",
+              "RelativeToolTip": "ExamenParte1\\Services\\ArticuloService.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAMwI8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:46:13.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenParte1\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\App.xaml.cs",
+              "RelativeToolTip": "ExamenParte1\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T19:31:35.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Articulos.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1.Models\\Entity\\Articulos.cs",
+              "RelativeDocumentMoniker": "ExamenParte1.Models\\Entity\\Articulos.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1.Models\\Entity\\Articulos.cs",
+              "RelativeToolTip": "ExamenParte1.Models\\Entity\\Articulos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:50:38.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarArticuloDTO.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1.Models\\DTO\\AgregarArticuloDTO.cs",
+              "RelativeDocumentMoniker": "ExamenParte1.Models\\DTO\\AgregarArticuloDTO.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1.Models\\DTO\\AgregarArticuloDTO.cs",
+              "RelativeToolTip": "ExamenParte1.Models\\DTO\\AgregarArticuloDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:26:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\Registro.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenParte1\\Registro.xaml.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\Registro.xaml.cs",
+              "RelativeToolTip": "ExamenParte1\\Registro.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:42:46.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\DataBase\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ExamenParte1\\DataBase\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\DataBase\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ExamenParte1\\DataBase\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T17:08:58.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExamenParte1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\MainWindow.xaml",
+              "RelativeToolTip": "ExamenParte1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-28T15:39:52.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExamenParte1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PedroHern\u00E1ndez\\source\\repos\\ExamenParte1\\ExamenParte1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExamenParte1\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEQAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T15:39:50.526Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\bin\Debug\net6.0\ExamenParte1.Models.deps.json
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\bin\Debug\net6.0\ExamenParte1.Models.runtimeconfig.json
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\bin\Debug\net6.0\ExamenParte1.Models.dll
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\bin\Debug\net6.0\ExamenParte1.Models.pdb
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ExamenParte1.Models.csproj.AssemblyReference.cache
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ExamenParte1.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ExamenParte1.Models.AssemblyInfoInputs.cache
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ExamenParte1.Models.AssemblyInfo.cs
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ExamenParte1.Models.csproj.CoreCompileInputs.cache
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ExamenParte1.Models.dll
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\refint\ExamenParte1.Models.dll
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ExamenParte1.Models.pdb
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ExamenParte1.Models.genruntimeconfig.cache
+C:\Users\PedroHernández\source\repos\ExamenParte1\ExamenParte1.Models\obj\Debug\net6.0\ref\ExamenParte1.Models.dll
